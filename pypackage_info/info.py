@@ -2,6 +2,9 @@ from os.path import getctime
 from datetime import datetime
 from pkg_resources import working_set
 
+# This module is deprecated. Users are directed to importlib.resources,
+# importlib.metadata and packaging instead.
+
 
 def main():
     installed_packages = list(working_set)
