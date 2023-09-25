@@ -8,4 +8,4 @@ pypackage-info
 python -m pypackage-info
 ```
 
-![1695647724716](image/readme/1695647724716.png)
+![1695647724716](https://github.com/PCCAG/pypackages-info/blob/master/image/readme/1695647724716.png?raw=true)
