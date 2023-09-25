@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="pypackage-info",
-    version="0.0.1",
+    version="0.0.2",
     packages=find_packages(),
     author="PCCAG",
     description="A very simple tool. Can output the name, version, last modified time, and location of the installed module in the current environment in a tabular form at the terminal.",
