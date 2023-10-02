@@ -1,4 +1,5 @@
 # pypackages-info
+For test of publishing package to pypi
 A very simple tool. Can output the name, version, last modified time, and location of the installed module in the current environment in a tabular form at the terminal.
 
 
